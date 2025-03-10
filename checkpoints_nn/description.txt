@@ -1,0 +1,2 @@
+
+This folder will be filled with the checkpoints of SimpleNN model. 
